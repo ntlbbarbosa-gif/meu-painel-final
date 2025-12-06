@@ -1,0 +1,13 @@
+[
+  {
+    "id": "S-001",
+    "company": "Loja TechStore",
+    "siteUrl": "https://techstore.lovable.app",
+    "active": true,
+    "nextPayment": "2025-01-20",
+    "segment": "E-commerce de Tecnologia",
+    "colors": "Azul e Branco",
+    "objective": "Venda de produtos eletrônicos",
+    "notes": "Cliente desde 2024"
+  }
+]
